@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable = "false">Famous Computer Scientists</string>
+    <string name="action_settings">Settings</string>
+    <string name="torvalds_name">Linus Torvalds</string>
+    <string name="torvalds_desc">This Finnish/American engineer graduated from the University of Helsinki, and then invented a Unix operating system flavor which became Linux, one of the most widely used operating systems in the world. Linux hasn’t seen much growth in the consumer market, but has been a mainstay for programmers for decades. Most of the internet runs on Linux servers, the trademark of which is incredible stability, and strong security. Torvalds continues his work, sponsored by the Linux foundation, and his continued contributions to the Linux platform have continued to change computing for everybody, albeit behind the scenes.</string>
+	<string name="carmack_name" translatable = "false">John Carmack</string>
+    <string name="carmack_desc">One of the most influential innovations to come along with computers is the rise of modern video games. John Carmack founded id Software, and created some of the most influential video games in what is the fastest growing entertainment medium in the United States. In 2011 the video game industry as a whole was valued at $65 billion. Carmack’s influence on this industry has been widespread as id Software’s Wolfenstein 3d set codified the first person shooter genre (one of the most popular video game genres) in 1992.</string>
+
+    
+</resources>
